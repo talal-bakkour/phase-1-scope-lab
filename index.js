@@ -22,7 +22,6 @@ const leastFavoriteCustomer = 'someone';
 function changeLeastFavoriteCustomer() {
  
   leastFavoriteCustomer = 'someone else';
-
-  olikjopkplss
+  
 }
 
